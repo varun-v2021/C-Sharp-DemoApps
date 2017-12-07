@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.exe">
+   <Modules>
+    <Module Name="codeanalysisdemo.exe">
+     <Namespaces>
+      <Namespace Name="CodeAnalysisDemo">
+       <Types>
+        <Type Name="Program" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Main()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="customerOne" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="68">'Program.Main()' declares a variable, 'customerOne', of type 'RegularCustomer', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="customerTwo" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="69">'Program.Main()' declares a variable, 'customerTwo', of type 'EliteCustomer', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="qty" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="47">'Program.Main()' declares a variable, 'qty', of type 'int', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="regCustObj1" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="98">'Program.Main()' declares a variable, 'regCustObj1', of type 'RegularCustomer', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Program1" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#init()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message Id="product1" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="166">'Program1.init()' declares a variable, 'product1', of type 'Product', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="product2" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="168">'Program1.init()' declares a variable, 'product2', of type 'Product', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="product3" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="167">'Program1.init()' declares a variable, 'product3', of type 'Product', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Program2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#init2()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="object1" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="198">'Program2.init2()' declares a variable, 'object1', of type 'Student', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="object2" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Program.cs" Line="200">'Program2.init2()' declares a variable, 'object2', of type 'Student', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Seller" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#SellerLocations" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819" Status="Active" Created="2017-10-27 06:47:44Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="C:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo" File="Seller.cs" Line="13">Change 'Seller.SellerLocations' to return a collection or make it a method.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="PropertiesShouldNotReturnArrays" Category="Microsoft.Performance" CheckId="CA1819">
+   <Name>Properties should not return arrays</Name>
+   <Description>Properties that return arrays are prone to code inefficiencies. Consider using a collection or making this a method. See the design guidelines for more information.</Description>
+   <Resolution Name="Default">Change {0} to return a collection or make it a method.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/0fss9skc.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804">
+   <Name>Remove unused locals</Name>
+   <Description>Remove locals that are not used or are only assigned to in method implementations.</Description>
+   <Resolution Name="Default">{0} declares a variable, {1}, of type {2}, which is never used or is only assigned to. Use this variable or remove it.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182278.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

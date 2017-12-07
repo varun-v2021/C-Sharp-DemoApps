@@ -1,0 +1,6 @@
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\bin\Release\QueryExpressionDemo.exe.config
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\bin\Release\QueryExpressionDemo.exe
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\bin\Release\QueryExpressionDemo.pdb
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\obj\Release\QueryExpressionDemo.csprojResolveAssemblyReference.cache
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\obj\Release\QueryExpressionDemo.exe
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\QueryExpressionDemo\obj\Release\QueryExpressionDemo.pdb

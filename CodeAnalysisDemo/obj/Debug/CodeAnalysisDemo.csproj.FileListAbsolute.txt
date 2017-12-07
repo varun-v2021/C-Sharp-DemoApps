@@ -1,0 +1,8 @@
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.exe.config
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.exe
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.pdb
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.exe.CodeAnalysisLog.xml
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\bin\Debug\CodeAnalysisDemo.exe.lastcodeanalysissucceeded
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\obj\Debug\CodeAnalysisDemo.csprojResolveAssemblyReference.cache
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\obj\Debug\CodeAnalysisDemo.exe
+c:\Users\varun_venkatesh\Documents\Visual Studio 2015\Projects\InfosysBusinessLayer\CodeAnalysisDemo\obj\Debug\CodeAnalysisDemo.pdb
